@@ -1,0 +1,17 @@
+D:\oop16\Pokemon\Pokemon\bin\Debug\net8.0-windows\Pokemon.exe
+D:\oop16\Pokemon\Pokemon\bin\Debug\net8.0-windows\Pokemon.deps.json
+D:\oop16\Pokemon\Pokemon\bin\Debug\net8.0-windows\Pokemon.runtimeconfig.json
+D:\oop16\Pokemon\Pokemon\bin\Debug\net8.0-windows\Pokemon.dll
+D:\oop16\Pokemon\Pokemon\bin\Debug\net8.0-windows\Pokemon.pdb
+D:\oop16\Pokemon\Pokemon\obj\Debug\net8.0-windows\Pokemon.Form1.resources
+D:\oop16\Pokemon\Pokemon\obj\Debug\net8.0-windows\Pokemon.Properties.Resources.resources
+D:\oop16\Pokemon\Pokemon\obj\Debug\net8.0-windows\Pokemon.csproj.GenerateResource.cache
+D:\oop16\Pokemon\Pokemon\obj\Debug\net8.0-windows\Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop16\Pokemon\Pokemon\obj\Debug\net8.0-windows\Pokemon.AssemblyInfoInputs.cache
+D:\oop16\Pokemon\Pokemon\obj\Debug\net8.0-windows\Pokemon.AssemblyInfo.cs
+D:\oop16\Pokemon\Pokemon\obj\Debug\net8.0-windows\Pokemon.csproj.CoreCompileInputs.cache
+D:\oop16\Pokemon\Pokemon\obj\Debug\net8.0-windows\Pokemon.dll
+D:\oop16\Pokemon\Pokemon\obj\Debug\net8.0-windows\refint\Pokemon.dll
+D:\oop16\Pokemon\Pokemon\obj\Debug\net8.0-windows\Pokemon.pdb
+D:\oop16\Pokemon\Pokemon\obj\Debug\net8.0-windows\Pokemon.genruntimeconfig.cache
+D:\oop16\Pokemon\Pokemon\obj\Debug\net8.0-windows\ref\Pokemon.dll
